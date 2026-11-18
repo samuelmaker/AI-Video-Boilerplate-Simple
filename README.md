@@ -47,6 +47,10 @@ ROBOFLOW_API_KEY=YOUR_ROBOFLOW_KEY_HERE
 
   
 
+### Install Python dependencies
+
+Use Python 3.10 or newer and run `poetry install` to create a local environment from `poetry.lock`. Virtual environments are generated locally and are not committed.
+
 ### Installation
 
   
