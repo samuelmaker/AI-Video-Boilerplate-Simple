@@ -20,4 +20,4 @@ app.register_blueprint(surfinterneteyes, url_prefix='/surfinterneteyes')
 app.register_blueprint(template, url_prefix='/template')
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=8000)
+    app.run(host='0.0.0.0', port=8000)
